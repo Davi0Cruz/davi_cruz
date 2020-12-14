@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/davi/Documents/c++/projetos_curso/vetor/glava_19/vector/vector.cpp
+vector.hpp
+/home/davi/Documents/c++/projetos_curso/vetor/glava_19/vector/vector.hpp
+
+/home/davi/Documents/c++/projetos_curso/vetor/glava_19/vector/vector.hpp
+
