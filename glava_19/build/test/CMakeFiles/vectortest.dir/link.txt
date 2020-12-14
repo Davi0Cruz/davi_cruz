@@ -1,1 +1,0 @@
-/usr/bin/g++-9  -g   CMakeFiles/vectortest.dir/vectortest.cpp.o  -o vectortest  ../lib/libgtest_maind.a ../vector/libvector.a ../lib/libgtestd.a -lpthread 
